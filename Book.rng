@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<element name="Book" ns="http://www.publishing.org"
+<element name="Book" ns="http://www.xmlunit.org/publishing"
          xmlns="http://relaxng.org/ns/structure/1.0">
   <element name="Title"><text/></element>
   <oneOrMore>

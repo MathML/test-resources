@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <foo:schema xmlns:foo="http://www.w3.org/2001/XMLSchema"
-            targetNamespace="http://www.publishing.org"
-            xmlns="http://www.publishing.org"
+            targetNamespace="http://www.xmlunit.org/publishing"
+            xmlns="http://www.xmlunit.org/publishing"
             version="1.0"
             elementFormDefault="qualified">
 	
