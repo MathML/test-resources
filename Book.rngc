@@ -1,4 +1,4 @@
-namespace b = "http://www.xmlunit.org/publishing"
+namespace b = "https://www.xmlunit.org/publishing"
 
 element b:Book {
     element b:Title { text },
